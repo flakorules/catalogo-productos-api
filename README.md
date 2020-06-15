@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 PREREQUISITOS
     1) Node JS Instalado
     2) Cuenta en MongoDB
@@ -32,3 +33,6 @@ INSTALAR DEPENDENCIAS CON EL SIGUIENTE COMANDO
 
 PARA INICIAR EL SERVIDOR DE DESARROLLO
     npm star
+=======
+# catalogo-productos-api
+>>>>>>> 1da3d78427fb8eab5dcc5d60ca3fd8b323276491
